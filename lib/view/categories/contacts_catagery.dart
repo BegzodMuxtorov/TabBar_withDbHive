@@ -31,6 +31,6 @@ class Contacts extends StatelessWidget {
               itemCount: data.length,
             );
           }
-        });
+        },);
   }
 }
